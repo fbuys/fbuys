@@ -12,19 +12,20 @@ As a senior software engineer at [OmbuLabs](https://www.ombulabs.com/), I am pro
 
 Take a look at out blog posts where we share hard earned insights into Ruby and Rails.
 
-<a href="[https://github.com/fbuys/fbuys](https://www.ombulabs.com/blog)">
-  <img src="https://github.com/fbuys/fbuys/assets/3785596/635197b7-780a-471c-a806-6b627a2340da" width="375" />
+<a href="https://www.ombulabs.com/blog">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/3785596/239398973-635197b7-780a-471c-a806-6b627a2340da.jpg" width="375" />
 </a>
-<a href="[https://github.com/fbuys/fbuys](https://www.fastruby.io/blog)">
-  <img src="https://github.com/fbuys/fbuys/assets/3785596/8acb427b-1147-4e70-ad80-6a6e2748dcb4" width="375" />
+<a href="https://www.fastruby.io/blog">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/3785596/239398583-8acb427b-1147-4e70-ad80-6a6e2748dcb4.jpg" width="375" />
 </a>
-
 
 ---
 
 | Github Stats | Github Streak |
 |-|-|
 | <a href="https://github.com/fbuys/fbuys"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fbuys&show_icons=true&theme=dark" /> </a> | [![GitHub Streak](https://streak-stats.demolab.com?user=fbuys&theme=dark&exclude_days=Sun%2CSat)]([https://git.io/streak-stats](https://github.com/fbuys/fbuys)) |
+
+
 
 
 
