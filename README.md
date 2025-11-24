@@ -1,29 +1,70 @@
-![Github Banner](https://github.com/fbuys/fbuys/assets/3785596/c78935a6-ea76-4b21-9325-b909d6441cb0)
+<img width="1500" height="500" alt="fbuys Profile Banner" src="https://github.com/user-attachments/assets/ef4e53de-18c9-4f0e-a64e-3ae891ad7166" />
 
-I love creating and uplifting those around me. I strive to use my skills to make a positive impact on the world.
+👋 Hi, I’m Francois
 
-As a life long learner I constantly look for new challenges.
+I’m a dedicated full-stack Ruby engineer who values simplicity, authenticity, and focusing on what truly matters. I love solving complex problems with Ruby, reducing technical debt, and making applications more maintainable and reliable.
 
-I am excited about the future and how tech can make a difference in the world.
-
-### Ombulabs
-
-As a senior software engineer at [OmbuLabs](https://www.ombulabs.com/), I am proud to be making an impact on the tech community. 
-
-Take a look at out blog posts where we share hard earned insights into Ruby and Rails.
-
-<a href="https://www.ombulabs.com/blog">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/3785596/239398973-635197b7-780a-471c-a806-6b627a2340da.jpg" width="375" />
-</a>
-<a href="https://www.fastruby.io/blog">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/3785596/239398583-8acb427b-1147-4e70-ad80-6a6e2748dcb4.jpg" width="375" />
-</a>
+Beyond the code, I genuinely enjoy collaboration. I try to bring respect and authenticity to every interaction, and as a husband and father, I care deeply about creating environments where people feel supported, encouraged, and inspired to grow.
 
 ---
 
-| Github Stats | Github Streak |
-|-|-|
-| <a href="https://github.com/fbuys/fbuys"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fbuys&show_icons=true&theme=dark" /> </a> | [![GitHub Streak](https://streak-stats.demolab.com?user=fbuys&theme=dark&exclude_days=Sun%2CSat)]([https://git.io/streak-stats](https://github.com/fbuys/fbuys)) |
+💼 Professional Experience
+
+2021 – Present · Lead Engineer · OmbuLabs
+- Leading teams across Rails and Python projects
+- Driving backend architecture
+- Mentoring engineers and improving maintainability
+
+2020 – 2021 · Full-Stack Software Engineer · SmartrMail
+- Delivered full-stack features (Rails + Vue)
+- Worked closely with startup directors under tight deadlines
+
+2018 – 2020 · Full-Stack Software Engineer · Leaply
+- Built features end-to-end (Rails 5.2 + Vue)
+- Shaped new backend architecture decisions
+
+---
+
+🛠 Skills & Tools
+
+Languages & Frameworks:
+Ruby on Rails · Python · JavaScript (Vue, React)
+
+Engineering Strengths:
+Backend Engineering · Frontend Engineering · API Design · Database Design
+Software Architecture · Maintainability · Refactoring · Problem Solving
+
+Ways of Working:
+Scrum · Collaboration · Team Leadership
+
+---
+
+🌱 Open Source & Projects
+
+Here are a few repositories and projects I’ve contributed to:
+- [dspy.rb](https://github.com/vicentereig/dspy.rb)
+- [rubycritic](https://github.com/whitesmith/rubycritic)
+- [reek](https://github.com/troessner/reek)
+- [railsbump/checker](https://github.com/railsbump/checker)
+- [points](https://github.com/fastruby/points)
+- [next_rails](https://github.com/fastruby/next_rails)
+- [anyway_config](https://github.com/palkan/anyway_config)
+
+---
+
+✍️ Writing & Thoughts
+
+I love sharing what I learn.
+Check out my blog posts here:
+- [Personal site](https://fbuys.dev/)
+- [Fastruby.io blog](https://www.fastruby.io/blog/authors/fbuys)
+
+---
+
+🎓 Education
+
+B.Sc Computing (Honours)
+
 
 
 
